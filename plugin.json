@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bluesmart",
+  "version": "0.1.0",
+  "description": "A reusable BlueJ Java coding skill with school-style guidance, a bundled knowledge graph, and project validation tools.",
+  "license": "MIT",
+  "keywords": [
+    "bluej",
+    "java",
+    "education",
+    "agent-skills"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "BlueSmart",
+        "shortDescription": "BlueJ Java coding guidance and knowledge",
+        "longDescription": "A reusable BlueJ Java coding skill with school-style guidance, a bundled knowledge graph, and project validation tools."
+      }
+    }
+  },
+  "repository": "https://github.com/robynvlt/BlueSmart",
+  "homepage": "https://github.com/robynvlt/BlueSmart"
+}
