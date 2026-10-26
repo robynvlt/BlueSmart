@@ -1,0 +1,4 @@
+interface:
+  display_name: "BlueSmart"
+  short_description: "BlueJ Java verstehen, Spiele bauen und Fehler beheben"
+  default_prompt: "Nutze $bluesmart, um mein BlueJ-Projekt passend zur Vorlage zu bearbeiten und zu prüfen."
